@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.c6a2c7a8.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.3527d8e9.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.3527d8e9.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.8eea4691.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.8eea4691.js.map",
+    "static/js/2.5027219b.chunk.js": "/reactportfolio/static/js/2.5027219b.chunk.js",
+    "static/js/2.5027219b.chunk.js.map": "/reactportfolio/static/js/2.5027219b.chunk.js.map",
+    "static/js/3.2734a9df.chunk.js": "/reactportfolio/static/js/3.2734a9df.chunk.js",
+    "static/js/3.2734a9df.chunk.js.map": "/reactportfolio/static/js/3.2734a9df.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "static/css/main.c6a2c7a8.chunk.css.map": "/reactportfolio/static/css/main.c6a2c7a8.chunk.css.map",
+    "static/js/2.5027219b.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.5027219b.chunk.js.LICENSE.txt",
+    "static/media/BillHronisResume-Updated.0519950d.pdf": "/reactportfolio/static/media/BillHronisResume-Updated.0519950d.pdf",
+    "static/media/IMG_1070.1efc5804.png": "/reactportfolio/static/media/IMG_1070.1efc5804.png",
+    "static/media/index.css": "/reactportfolio/static/media/random_grey_variations_@2X.31a45f44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eea4691.js",
+    "static/js/2.5027219b.chunk.js",
+    "static/css/main.c6a2c7a8.chunk.css",
+    "static/js/main.3527d8e9.chunk.js"
+  ]
+}
